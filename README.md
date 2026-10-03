@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of pnobbe/flarum-ext-oauth-discord.** Not for installation: use [Packagist](https://packagist.org/packages/pnobbe/flarum-ext-oauth-discord) or the [upstream repository](https://github.com/pnobbe/flarum-ext-oauth-discord).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/pnobbe-flarum-ext-oauth-discord/tree/archive/v1.0.2) · License: `GPL-3.0+` · Flarum: `^0.1.0-beta.6`
+**3** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/pnobbe-flarum-ext-oauth-discord/tree/archive/v1.0.2) · License: `GPL-3.0+` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.2` | 2016-11-18 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/pnobbe-flarum-ext-oauth-discord/tree/archive/v1.0.2) |
+| `v1.0` | 2016-07-27 | `v0.1.0-beta.5` | [Browse](https://github.com/flarchive/pnobbe-flarum-ext-oauth-discord/tree/archive/v1.0) |
+| `v1.0.1beta6` | 2016-11-16 | `v0.1.0-beta.6` | [Browse](https://github.com/flarchive/pnobbe-flarum-ext-oauth-discord/tree/archive/v1.0.1beta6) |
 
 Catalog entry: [packages/pnobbe-flarum-ext-oauth-discord.json](https://github.com/flarchive/archive-index/blob/main/packages/pnobbe-flarum-ext-oauth-discord.json)
 
